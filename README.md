@@ -1,4 +1,7 @@
 # VLM Evaluation
+
+**<Note: This repository is a modified version of official repository>**
+
 ![](./images/03-evaluation-suite-med-res.png)
 
 VLM Evaluation: Benchmark for VLMs, spanning text generation tasks from VQA to Captioning.
