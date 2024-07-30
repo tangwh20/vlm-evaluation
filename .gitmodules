@@ -1,0 +1,12 @@
+[submodule "pkgs/draccus"]
+	path = pkgs/draccus
+	url = git@github.com:dlwh/draccus.git
+[submodule "pkgs/LLaVa"]
+	path = pkgs/LLaVa
+	url = git@github.com:suraj-nair-tri/LLaVA.git
+[submodule "pkgs/LAVIS"]
+	path = pkgs/LAVIS
+	url = git@github.com:siddk/LAVIS.git
+[submodule "pkgs/prismatic-vlms"]
+	path = pkgs/prismatic-vlms
+	url = git@github.com:tangwh20/prismatic-vlms.git
